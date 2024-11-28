@@ -7,6 +7,7 @@
 ![](./index.jpg)
 
 ## ubuntu 22.04 及以上
+发布页面找到[对应安装包(.deb)](https://github.com/emNavi/emnavidiscover/releases)
 
 ## 通过docker使用
 ```bash
