@@ -1,8 +1,14 @@
 # emNavi Discover
-**emNavi Discover** 集成了emnavi设备快速连接、终端运行等常用功能
+**emNavi Discover** 集成了emnavi设备快速连接、终端运行等常用功能。
+## 操作系统支持
+- windows
+- Ubuntu(>=22.04)
+- Docker
 ![](./index.jpg)
 
-## 在 Ubuntu 中使用
+## ubuntu 22.04 及以上
+
+## 通过docker使用
 ```bash
 # 下载项目
 git clone https://github.com/emNavi/emnavidiscover.git
