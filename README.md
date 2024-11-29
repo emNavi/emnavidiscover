@@ -8,7 +8,7 @@
 - Docker
   
 ## ubuntu 22.04 及以上
-安装包可在发布页面找到[对应安装包(.deb)](https://github.com/emNavi/emnavidiscover/releases)
+安装包(*.deb)可在[发布页面](https://github.com/emNavi/emnavidiscover/releases)找到
 
 ## 通过docker使用
 
@@ -19,6 +19,9 @@ cd emnavidiscover
 ```
 你可以下载[最新版安装包](https://github.com/emNavi/emnavidiscover/releases)覆盖原始的安装包(*.deb)
 ```bash
+# 若之前构建过，可以先删除
+sudo docker rmi emnavidiscover-exec:v0.1
+sudo docker rmi emnavidiscover-exec:v0.2
 # 构建 Docker 镜像
 sudo docker build -t emnavidiscover-exec .
 ```

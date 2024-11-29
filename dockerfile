@@ -25,6 +25,6 @@ libssl-dev \
 libayatana-appindicator3-dev \
 librsvg2-dev
 
-COPY ./emNaviDiscover_0.1.0_amd64.deb /app/
-RUN dpkg -i /app/*.deb
-# RUN apt clean
+COPY ./emNaviDiscover*.deb /app/
+RUN dpkg -i /app/emNaviDiscover*.deb
+RUN apt clean
