@@ -39,6 +39,7 @@ emnavidiscover
 ## 在 Windows 中使用
 Windows下需要配置环境，点击安装 [ WinPcap](https://emnavi-doc-img.oss-cn-beijing.aliyuncs.com/emnavi_video/intro/WinPcap_4_1_3.exe)
 
-点击安装 [emnavidiscover](https://emnavi-doc-img.oss-cn-beijing.aliyuncs.com/emnavi_video/intro/Discover_0.1.0_x64-setup.exe)
+<!-- 点击安装 [emnavidiscover](https://emnavi-doc-img.oss-cn-beijing.aliyuncs.com/emnavi_video/intro/Discover_0.1.0_x64-setup.exe) -->
 
+在[此页面下载](https://github.com/emNavi/emnavidiscover/releases)
 安装完成后，在桌面上能找到该软件启动
